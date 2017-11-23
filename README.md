@@ -10,7 +10,7 @@ Avoid the black spinners, if you collide with them you die.
 Bombs will fall down on to the screen, they are flashing blue/red and black, if you are not the same color as it (blue/red), when it blows up it will kill you.
 If you earn 20000 points, you win the game.
 
-This game is made in Adobe Animate to practice coding a game engine. This uses a self made game loop, update functions, radial collision detection, and state machine (for the colors).
+This game is made in Adobe Animate to practice coding a game engine. This uses a self made game loop, update functions, delta time calculator, radial collision detection, and state machine (for the colors).
 
 There are a few downfalls, when you respawn after dying or winning, you might spawn on a spinner, immediately killing you. 
 Also, the pickups tend to gather around the spinners over time. Might fix these when I have the time, right now they will remain this way.
